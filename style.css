@@ -8,7 +8,7 @@ body {
 header {
   text-align: center;
   padding: 50px;
-  background: linear-gradient(180deg, #1a001f, #000);
+  background: url('images/horror1.jpg') no-repeat center/cover;
 }
 
 header h1 {
